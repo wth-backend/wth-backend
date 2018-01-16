@@ -2,15 +2,6 @@
   "name": "portal",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {
-    "start-web" : "node ./bin/www",
-    "ng": "ng",
-    "start": "node ./bin/www",
-    "build": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e"
-  },
   "private": true,
   "dependencies": {
     "@angular/animations": "^5.0.0",
