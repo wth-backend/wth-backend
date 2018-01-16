@@ -3,7 +3,7 @@
  */
 
 exports.env = {
-  port : 3000, // app port
+  port : 80, // app port
   dbUrl : 'mongodb://wth-mongodb:wthWTHNinja9@ds251747.mlab.com:51747/wth-portal' // mongodb url
 };
 
